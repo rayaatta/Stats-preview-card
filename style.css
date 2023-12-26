@@ -48,7 +48,7 @@ The designs were created to the following widths:
     padding:0;
     box-sizing:border-box;
     align-items:center;
-    font-family:sans-serif;
+    font-family: 'inter', sans-serif;
     text-align:center;
     color:var(--white);
     
@@ -106,6 +106,10 @@ h1 {
     margin-block:1rem;
     font-weight: 700;
     font-size: 2rem;
+    color:hsla(0, 0%, 100%, 0.6);
+}
+h2 {
+    color:hsla(0, 0%, 100%, 0.6);
 }
 .violet {
     color:var(--soft-violet);
